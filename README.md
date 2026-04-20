@@ -90,7 +90,7 @@ Developed an **interactive Power BI dashboard** that:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/faisalreyaz/SALES-ANALYTICS-AND-PROFITABILITY-INSIGHTS/blob/main/sales_dashboard%20(PWC%20PROJECT).png)
+![Dashboard Screenshot](https://github.com/rishabhkumarprabhakar-art/SALES-ANALYTICS-AND-PROFITABILITY-INSIGHTS/blob/main/SALES%20DATASET%20(PWC%20PROJECT).png)
 
 ---
 
